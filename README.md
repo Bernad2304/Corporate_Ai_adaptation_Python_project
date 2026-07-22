@@ -1,0 +1,1 @@
+# Corporate_Ai_adaptation_Python_project
